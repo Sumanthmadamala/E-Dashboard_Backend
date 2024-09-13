@@ -1,0 +1,13 @@
+{
+  "folders": [
+    {
+      "path": ".."
+    },
+    {
+      "path": "../../interview projects"
+    }
+  ],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "MERN"
+  }
+}
